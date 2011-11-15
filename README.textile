@@ -21,6 +21,9 @@ h3. speed
 
 This is the speed at which the image will fade in, after downloading is complete. Integers are accepted, as well as standard jQuery speed strings (slow, normal, fast). (type=Integer, default=0)
 
+h3. constrain
+
+Setting this to true will make it so that the image is not stretched beyond its original dimensions
 
 h2. Setup
 
